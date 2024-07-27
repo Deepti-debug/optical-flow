@@ -8,8 +8,6 @@
 The goal of the assignment is to familiarize you to optical flow which is the most general and challenging version
 of motion estimation. It involves computing an independent estimate of motion at each pixel.
 
-Please raise doubts on the appropriate assignment thread on Moodle.
-
 # Instructions
 
 -   Follow the directory structure as shown below:
